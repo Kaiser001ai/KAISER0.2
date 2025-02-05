@@ -1,0 +1,29 @@
+img{
+    width: 300px;
+    height: auto;
+}
+.FLEX1{
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+
+}
+.F1{
+    /* height: 100%; */
+}
+.F2{
+    /* height: 100%; */
+}
+h1{
+    font-size: 70px;
+    font-style: italic;
+}
+button{
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
